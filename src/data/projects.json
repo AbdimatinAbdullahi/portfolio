@@ -2,7 +2,7 @@
     {
         "name": "Cintube",
         "imgSrc": "clone_yt.png",
-        "description": "This is a youtube clone that made me to learn Using react js, working with APIS And using Material UI to design user Interface",
+        "description": "This is a youtube clone that made me to learn Using react js, working with APIS And using Material UI to design UI",
         "skills" : ["Reactjs", "APIs", "MUI"],
         "demo": "https://cintube.netlify.app/",
         "source": "https://www.github.com/AbdimatinAbdullahi/youtube_clone"
