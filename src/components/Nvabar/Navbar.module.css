@@ -33,15 +33,19 @@
 }
 
 .bgrIcon{
-    height: 40px;
-    cursor: pointer;
-    display: block;
+    display: none;
 }
+
 
 @media screen and (max-width: 840px){
     .navbar{
         flex-direction: column;
         align-items: flex-start;
+    }
+    .bgrIcon{
+        height: 40px;
+        cursor: pointer;
+        display: block;
     }
 
     .nav{

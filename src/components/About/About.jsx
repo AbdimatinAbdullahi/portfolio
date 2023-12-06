@@ -27,7 +27,7 @@ const About = () => {
             </li>
 
             <li className={style.listItem}>
-              <img src={getImageUrl('.png')} alt="server" />
+              <img src={getImageUrl('frontend.png')} alt="server" />
               <div className={style.listItemText} >
                   <h3>UI Desinger</h3>
                   <p>I have designed landing pages and have created design Systems as well</p>
