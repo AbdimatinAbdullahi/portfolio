@@ -2,6 +2,7 @@ import React from 'react'
 import Skills from '../../data/skills.json'
 import { getImageUrl } from '../../utils'
 import styles from '../Skills/skills.module.css';
+
 const Skill = () => {
   return (
     <section className={styles.container} id='skills'>

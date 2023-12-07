@@ -2,7 +2,7 @@
     {
         "name": "Cintube",
         "imgSrc": "clone_yt.png",
-        "description": "This is a youtube clone that made me to learn Using react js, working with APIS And using Material UI to design UI",
+        "description": "Cintube is a user-friendly video-sharing platform that allows user to watch and share the video. This is a youtube clone that made me to learn Using react js, working with APIS And using Material UI to design UI",
         "skills" : ["Reactjs", "APIs", "MUI"],
         "demo": "https://cintube.netlify.app/",
         "source": "https://www.github.com/AbdimatinAbdullahi/youtube_clone"
@@ -10,7 +10,7 @@
     {
         "name": "VisualMorph",
         "imgSrc": "clone-dalle.png",
-        "description": "VisualMorph Helps me in learning React, Nodejs, Mongodb Atlas And also working with APIs",
+        "description": "VisualMorph Allows user to make AI generate Image, download and share with friends.VisualMorph Helps me in learning React, Nodejs, Mongodb Atlas, Tailwindcss And also working with APIs",
         "skills" : ["Reactjs", "APIs", "Nodejs", "Mongodb"],
         "demo": "https://visualMorph.netlify.app/",
         "source": "https://www.github.com/AbdimatinAbdullahi/dalle_clone"

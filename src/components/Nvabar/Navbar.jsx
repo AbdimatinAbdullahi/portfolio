@@ -1,11 +1,12 @@
 import React, {useState} from 'react'
 import style from '../Nvabar/Navbar.module.css'
 import {getImageUrl} from '../../utils'
+import logo from '../../../logo.png'
 const Navbar = () => {
 const [menuOpen, setMenuOpen] = useState(false)
   return (
     <nav className={style.navbar} >
-        <a className={style.logo} href="/">Portfolio</a>
+        <a className={style.logo} href="/"> <img className={style.imgLogo} src={logo} alt="Logo"/> Portfolio</a>
 
         <div className={style.nav} >
             <img className={style.bgrIcon} src={ menuOpen ? getImageUrl('closeIcon.png') :getImageUrl("menuIcon.png")} alt="burgerIcon" onClick={()=> setMenuOpen(!menuOpen)} />
