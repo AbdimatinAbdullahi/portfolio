@@ -1,6 +1,6 @@
 import React from 'react'
 import { getImageUrl } from '../../utils'
-import styles from './Projectcard.module.css'
+import styles from './ProjectCard.module.css'
 const ProjectCard = ({project:{ name, skills, imgSrc, description, source, demo}}) => {
   return (
     <div className={styles.container} >
