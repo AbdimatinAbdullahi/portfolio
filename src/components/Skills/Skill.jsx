@@ -1,7 +1,7 @@
 import React from 'react'
 import Skills from '../../data/skills.json'
 import { getImageUrl } from '../../utils'
-import styles from '../Skills/skills.module.css';
+import styles from '../Skills/Skills.module.css';
 
 const Skill = () => {
   return (
