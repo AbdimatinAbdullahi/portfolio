@@ -8,6 +8,10 @@
         "ImgSrc" :"css.png"
     },
     {
+        "title": "Javascript",
+        "ImgSrc" :"javascript.png"
+    },    
+    {
         "title": "React",
         "ImgSrc" :"react.png"
     },
@@ -22,5 +26,13 @@
     {
         "title": "Figma",
         "ImgSrc" :"figma.png"
+    },
+    {
+        "title": "Git",
+        "ImgSrc" :"git.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "ImgSrc" :"postgresql.png"
     }
 ]
