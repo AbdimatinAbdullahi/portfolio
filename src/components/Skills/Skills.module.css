@@ -25,7 +25,7 @@
 
 .skills{
     width: 45%;
-    margin-left: 30%;
+    margin-left: 20%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 100px;
@@ -55,7 +55,7 @@
         height: 70px;
     }
     .skillContainer p{
-        font-size: 30px;
+        font-size: 20px;
         font-weight: 700;
     }
 }

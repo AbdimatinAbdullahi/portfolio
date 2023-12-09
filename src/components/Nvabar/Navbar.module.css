@@ -78,4 +78,11 @@
         display: flex;
         z-index: 1;
     }
+    .logo img {
+        height: 50px;
+        width: 50px;
+    }
+    .logo p {
+        display: none;
+    }
 }
